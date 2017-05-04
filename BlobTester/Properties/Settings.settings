@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BlobTester.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="connection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DefaultEndpointsProtocol=https;AccountName=wasifblob;AccountKey=t7YU30Cp1b/rP6qZ0FyoI0TLsaEnMZ6/dgQQPRbQId8YQ6uy9jyDx4yLUAdQA/y0sxpD+qp4+ikM1k6MokndCw==;EndpointSuffix=core.windows.net</Value>
+    </Setting>
+    <Setting Name="LocalPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F:\Azure poc\test files</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
